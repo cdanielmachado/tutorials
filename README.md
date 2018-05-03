@@ -15,20 +15,18 @@ cd (your cplex dir)/cplex/python/2.7/(your architecture)/
 python setup.py install
 ```
 
-Now you need to install the [framed](http://framed.readthedocs.io/en/latest/) library for metabolic modeling:
+Now you need to install the [framed](http://framed.readthedocs.io/en/latest/) library for metabolic modeling, and a few other packages.
 
 ```
-pip install framed
+pip install framed escher jupyter seaborn
 ```
 
-If you want to run the model reconstruction tutorial you will also need to install [CarveMe](http://carveme.readthedocs.io/en/latest/):
+If you want to run the model reconstruction tutorial you also need to install [CarveMe](http://carveme.readthedocs.io/en/latest/):
 
 ```
 pip install carveme
 carveme_init
 ```
-
-And your job is done.
 
 ### Credits and License
 
