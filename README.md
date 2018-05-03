@@ -28,6 +28,14 @@ pip install carveme
 carveme_init
 ```
 
+### Running the examples
+
+Just start jupyter from a terminal and you will be able to run the exercises in your browser.
+
+```
+jupyter notebook
+```
+
 ### Credits and License
 
 Daniel Machado, European Molecular Biology Laboratory, 2018
