@@ -1,3 +1,4 @@
 reframed
 escher
 cplex
+matplotlib
