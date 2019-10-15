@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cdanielmachado/tutorials/master?filepath=Ex%201%20-%20Flux%20Balance%20Analysis.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cdanielmachado/tutorials/master?filepath=fba.ipynb)
 
 
 # Metabolic Modeling Tutorials
